@@ -1,7 +1,7 @@
 ## Integrate the <AcidSquares /> component from React Bits
 
 You are helping integrate an open-source React component into an existing application.
-
+"use client"
 ### Component: AcidSquares
 ### Variant: JavaScript + CSS
 ### Dependencies: ogl
