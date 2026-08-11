@@ -1,12 +1,6 @@
 .acid-squares-container {
+  position: relative;
   width: 100%;
   height: 100%;
-  position: relative;
   overflow: hidden;
-}
-
-.acid-squares-container canvas {
-  position: absolute;
-  top: 0;
-  left: 0;
 }
